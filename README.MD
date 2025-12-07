@@ -94,7 +94,7 @@ Contiene la clase SubscriptionManager, encargada de:
 - Cumplimiento de PEP8 (estilo y formato)  
 - Docstrings conforme PEP257  
 - Arquitectura modular  
-- Aplicación del Zen de Python → “Simple es mejor que complejo”  
+- Aplicación del Zen de Python  “Simple es mejor que complejo”  
 - Separación entre lógica y presentación  
 - Uso de entorno virtual (venv)  
 - Código claro, mantenible y escalable  
